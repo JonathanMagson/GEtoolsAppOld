@@ -14,6 +14,12 @@
 
 **Toggle NVDI:** Toggle NVDI allows you to quickly switch the display of the NVDI layer on and off. Ensure you have a layer named 'NVDI' in the map's layer panel to use this feature.
 
+**Installation**
+1. download 'GEtoolsNWDversion.esriAddinX'
+2. run the .esriAddinX file and install addon
+3. Restart ArcGis Pro.
+4. Access tools in the Add-in ribbon
+
 
 
 See Licence.txt for acknowledgement of icons and licences used for this plugin.
