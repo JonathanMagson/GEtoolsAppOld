@@ -1,5 +1,7 @@
 # GEtools
 
+https://github.com/JonathanMagson/GEtoolsApp/blob/baefae3fa3d7e6f15ec11e554e0eb8bb53bcbde9/GEtools.esriAddinX
+
 **minimum ArcGIS Pro version required:** 3.1.41833
 
 ﻿Add-in has only been tested on windows.
