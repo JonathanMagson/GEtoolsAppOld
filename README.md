@@ -23,5 +23,4 @@ https://github.com/JonathanMagson/GEtoolsApp/blob/baefae3fa3d7e6f15ec11e554e0eb8
 4. Access tools in the Add-in ribbon
 5. Configure Google Earth. Go to Tools > Options > Navigation > Change the Fly-To Speed to 5
 
-
-See Licence.txt for acknowledgement of icons and licences used for this plugin.
+See LICENCE for  licences and acknowledgement for this plugin, including the MIT licence for Chris Stayte's original add-in.
